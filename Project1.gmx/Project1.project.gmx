@@ -125,7 +125,6 @@
   <rooms name="rooms">
     <room>rooms\inicio</room>
     <room>rooms\inicio_2</room>
-    <room>rooms\LVL_FINAL</room>
     <room>rooms\LVL1</room>
     <room>rooms\LVL2</room>
     <room>rooms\LVL_3</room>
@@ -134,6 +133,7 @@
     <room>rooms\room11</room>
     <room>rooms\LV_L_5</room>
     <room>rooms\lvl_6</room>
+    <room>rooms\LVL_FINAL</room>
     <room>rooms\ENDING1</room>
     <room>rooms\GAME_OVER0</room>
     <room>rooms\GAME_OVER1</room>
